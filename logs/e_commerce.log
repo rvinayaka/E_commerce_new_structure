@@ -1,0 +1,58 @@
+WARNING:2023-05-11 12:34:24,111:source_code.api.E_comm.admin_apis.update_vendor_details:Start the db connection to update values in vendor table
+WARNING:2023-05-11 12:34:58,381:source_code.api.E_comm.admin_apis.update_vendor_details:Start the db connection to update values in vendor table
+WARNING:2023-05-11 12:35:17,818:source_code.api.E_comm.admin_apis.update_vendor_details:Start the db connection to update values in vendor table
+WARNING:2023-05-11 12:36:41,562:source_code.api.E_comm.admin_apis.update_vendor_details:Start the db connection to update values in vendor table
+WARNING:2023-05-11 12:38:08,248:source_code.api.E_comm.admin_apis.update_vendor_details:Start the db connection to update values in vendor table
+WARNING:2023-05-11 12:38:25,184:source_code.api.E_comm.admin_apis.update_vendor_details:Updating value successful, hence closing the connection
+WARNING:2023-05-11 12:38:25,184:source_code.api.E_comm.admin_apis.update_vendor_details:Updating value successful, hence closing the connection
+WARNING:2023-05-11 12:38:42,086:source_code.api.E_comm.admin_apis.update_vendor_details:Start the db connection to update values in vendor table
+WARNING:2023-05-11 12:38:42,293:source_code.api.E_comm.admin_apis.update_vendor_details:Updating value successful, hence closing the connection
+WARNING:2023-05-11 12:38:42,293:source_code.api.E_comm.admin_apis.update_vendor_details:Updating value successful, hence closing the connection
+WARNING:2023-05-11 14:09:59,372:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Starting the db connection to get ratings of vendor id. 7
+ERROR:2023-05-11 14:09:59,514:source_code.api.settings:Error occurred 2: 'NoneType' object is not subscriptable
+WARNING:2023-05-11 14:10:35,575:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Starting the db connection to get ratings of vendor id. 7
+WARNING:2023-05-11 14:10:35,575:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Starting the db connection to get ratings of vendor id. 7
+ERROR:2023-05-11 14:10:35,717:source_code.api.settings:Error occurred 2: 'NoneType' object is not subscriptable
+ERROR:2023-05-11 14:10:35,717:source_code.api.settings:Error occurred 2: 'NoneType' object is not subscriptable
+WARNING:2023-05-11 14:10:42,225:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Starting the db connection to get ratings of vendor id. 7
+ERROR:2023-05-11 14:10:42,365:source_code.api.settings:Error occurred 2: 'NoneType' object is not subscriptable
+WARNING:2023-05-11 14:26:46,013:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Starting the db connection to get ratings of vendor id. 7
+WARNING:2023-05-11 14:26:46,013:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Starting the db connection to get ratings of vendor id. 7
+ERROR:2023-05-11 14:26:46,141:source_code.api.settings:Error occurred 2: 'NoneType' object is not subscriptable
+ERROR:2023-05-11 14:26:46,141:source_code.api.settings:Error occurred 2: 'NoneType' object is not subscriptable
+WARNING:2023-05-11 14:28:27,375:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Starting the db connection to get ratings of vendor id. 7
+ERROR:2023-05-11 14:28:27,511:source_code.api.settings:Error occurred 2: 'NoneType' object is not subscriptable
+WARNING:2023-05-11 14:28:54,232:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Starting the db connection to get ratings of vendor id. 1
+WARNING:2023-05-11 14:28:54,232:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Starting the db connection to get ratings of vendor id. 1
+ERROR:2023-05-11 14:28:54,472:source_code.api.settings:Error occurred 1: column reference "vendor_id" is ambiguous
+LINE 1: ... JOIN vendor v ON r.vendor_id = r.vendor_id WHERE vendor_id ...
+                                                             ^
+
+ERROR:2023-05-11 14:28:54,472:source_code.api.settings:Error occurred 1: column reference "vendor_id" is ambiguous
+LINE 1: ... JOIN vendor v ON r.vendor_id = r.vendor_id WHERE vendor_id ...
+                                                             ^
+
+WARNING:2023-05-11 14:31:07,021:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Starting the db connection to get ratings of vendor id. 1
+INFO:2023-05-11 14:31:07,207:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Ratings of vendor with id. 1 has been showed
+INFO:2023-05-11 14:31:07,207:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Ratings of vendor with id. 1 has been showed
+WARNING:2023-05-11 14:31:07,207:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Hence ratings shown, closing the connection
+WARNING:2023-05-11 14:31:07,207:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Hence ratings shown, closing the connection
+WARNING:2023-05-11 14:31:07,207:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Hence ratings shown, closing the connection
+WARNING:2023-05-11 14:32:41,740:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Starting the db connection to get ratings of vendor id. 1
+INFO:2023-05-11 14:32:41,922:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Ratings of vendor with id. 1 has been showed
+INFO:2023-05-11 14:32:41,922:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Ratings of vendor with id. 1 has been showed
+WARNING:2023-05-11 14:32:41,922:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Hence ratings shown, closing the connection
+WARNING:2023-05-11 14:32:41,922:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Hence ratings shown, closing the connection
+WARNING:2023-05-11 14:32:41,922:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Hence ratings shown, closing the connection
+WARNING:2023-05-11 14:34:49,209:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Starting the db connection to get ratings of vendor id. 1
+INFO:2023-05-11 14:34:49,411:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Ratings of vendor with id. 1 has been showed
+INFO:2023-05-11 14:34:49,411:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Ratings of vendor with id. 1 has been showed
+WARNING:2023-05-11 14:34:49,411:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Hence ratings shown, closing the connection
+WARNING:2023-05-11 14:34:49,411:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Hence ratings shown, closing the connection
+WARNING:2023-05-11 14:34:49,411:source_code.api.E_comm.functional_apis.get_all_ratings_of_vendor:Hence ratings shown, closing the connection
+WARNING:2023-05-11 14:36:27,750:source_code.api.E_comm.admin_apis.add_items_to_wishlist:Start the db connection to insert values in wishlist table
+ERROR:2023-05-11 14:36:27,751:source_code.api.settings:Error occurred 2: Data is insufficient
+WARNING:2023-05-11 14:36:50,113:source_code.api.E_comm.admin_apis.add_items_to_wishlist:Start the db connection to insert values in wishlist table
+ERROR:2023-05-11 14:36:50,326:source_code.api.settings:Error occurred 1: insert or update on table "wishlist" violates foreign key constraint "wishlist_product_id_fkey"
+DETAIL:  Key (product_id)=(10) is not present in table "products".
+
